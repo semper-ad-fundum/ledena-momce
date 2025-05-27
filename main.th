@@ -1,0 +1,22 @@
+encoding  utf-8
+# Ledena pećina u Momče
+survey main  -title "Ledena pećina u Momče, Montenegro" -namespace off
+
+input "momce90.th"
+
+#input "surveys/nasdem.th"
+
+input ledena.th2
+
+map map
+  scrap44
+endmap
+
+input ledena_ext.th2
+
+map map_ext
+ scrap3
+endmap
+
+endsurvey
+
